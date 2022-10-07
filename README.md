@@ -1,2 +1,5 @@
 # vapoursynth-stuff
-just random scripts
+
+## **1**
+
+### CoolDegrain-Vapoursynth (found on beatrice-raws's discord) `cooldegrain.py`
